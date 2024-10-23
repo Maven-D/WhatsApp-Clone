@@ -16,11 +16,6 @@ This project is a WhatsApp clone with video call functionality, built using Reac
 - Filterization between chats
 - End-to-end encryption for secure messaging.
 
-## Demo
-
-![image](https://github.com/piyushyadav0191/Full-Stack-Whatsapp-Clone/assets/84402719/0dedda2e-6111-4c40-95a6-55ac67388629)
-
-You can experience the project by visiting our [live demo](https://whatsapp-clone-frontend-liart.vercel.app/).
 
 ## Getting Started
 
