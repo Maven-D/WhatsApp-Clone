@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```
-   git clone [https://github.com/piyushyadav0191/Full-Stack-Whatsapp-Clone.git](https://github.com/Maven-D/WhatsApp-Clone.git)
+   git clone https://github.com/Maven-D/WhatsApp-Clone.git
    ```
 
 2. Change to the project directory:
